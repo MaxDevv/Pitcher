@@ -4,8 +4,8 @@
 Pitcher is a web-based theoretical perfect pitch training system that uses color association to help listeners determine musical notes. The application is designed to help musicians and music producers improve their pitch accuracy and overall musical ability.
 
 ## Demo Screenshots
-![Screenshot-1](screenshot-1.jpg)
-![Screenshot](screenshot.jpg)
+![Screenshot-1](https://cloud-qijbq9fqk-hack-club-bot.vercel.app/0image.jpg)
+![Screenshot](https://cloud-jsdkcl07a-hack-club-bot.vercel.app/0image.jpg)
 
 ## Features
 
