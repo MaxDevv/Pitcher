@@ -29,7 +29,7 @@
 				<option value="hard">hard</option>
 			</select>
 		</div>
-		<a href="/faq">How pitcher works</a>
+		<a href="/faq">What is Pitcher? (FAQ)</a>
 		<!-- </div> -->
 	</div>
 </div>
